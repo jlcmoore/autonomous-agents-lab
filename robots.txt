@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://jlcmoore.github.io/autonomous-agents-lab/sitemap.xml
+User-agent: * Disallow: Sitemap: https://autonomous-agents-lab.github.io/sitemap.xml
