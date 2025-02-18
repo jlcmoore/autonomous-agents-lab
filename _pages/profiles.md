@@ -52,7 +52,7 @@ profiles:
   - align: left
     image: profiles/sun.avif
     content: about/sun.md
-    image_circular: true    
+    image_circular: true
   - align: right
     image: profiles/eric.avif
     content: about/eric.md
@@ -68,5 +68,5 @@ profiles:
   - align: left
     image: profiles/priscilla.avif
     content: about/priscilla.md
-    image_circular: true                
+    image_circular: true
 ---

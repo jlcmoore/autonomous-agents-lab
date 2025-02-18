@@ -2,7 +2,7 @@
 layout: page
 title: Engineering Interactive Learning in Artificial Systems
 description: >
-    We look to develop machines that learn through autonomous exploration of and interaction with their environments -- as humans learn. To do this, we use deep reinforcement learning and employ and develop techniques in curiosity, active learning, and self-supervised learning. In doing so, we hope to create artificial systems that can learn more autonomously, flexibly, and robustly, with less demand on data.
+  We look to develop machines that learn through autonomous exploration of and interaction with their environments -- as humans learn. To do this, we use deep reinforcement learning and employ and develop techniques in curiosity, active learning, and self-supervised learning. In doing so, we hope to create artificial systems that can learn more autonomously, flexibly, and robustly, with less demand on data.
 img: assets/img/engineering_learning/teaser.avif
 importance: 1
 category: work
@@ -31,14 +31,13 @@ People, on the other hand, learn by virtue of their agency: they interact with v
     {% cite kim_active_2020 %}
 </div>
 
-Thus far, we have developed curious, self-supervised deep reinforcement learning agents that explore and learn to model 3D physical environments and other agents. In doing so, they gain predictive models  and useful visual representations. In the long term, we would like to grow these learning algorithms into a variety of robust technologies:
+Thus far, we have developed curious, self-supervised deep reinforcement learning agents that explore and learn to model 3D physical environments and other agents. In doing so, they gain predictive models and useful visual representations. In the long term, we would like to grow these learning algorithms into a variety of robust technologies:
 
-- Curious, exploring robots that autonomously adapt to new surroundings and perform a variety of tasks. 
+- Curious, exploring robots that autonomously adapt to new surroundings and perform a variety of tasks.
 
-- Social AI that interacts with you and understand your beliefs & understandings. 
+- Social AI that interacts with you and understand your beliefs & understandings.
 
 - AI that accesses, harnesses, and welds human knowledge.
-
 
 {% cite haber_learning_2018 %}
 

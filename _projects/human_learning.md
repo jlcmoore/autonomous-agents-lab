@@ -2,7 +2,7 @@
 layout: page
 title: Modeling Human Learning and Developmental Differences
 description: >
-    We seek to create computational models of human learning and development, and in particular, models of developmental differences such as Autism Spectrum Disorder. To do this, we engineer artificial systems that learn as humans do, in complex, real-world situations, and we compare artificial behavior to human behavior.
+  We seek to create computational models of human learning and development, and in particular, models of developmental differences such as Autism Spectrum Disorder. To do this, we engineer artificial systems that learn as humans do, in complex, real-world situations, and we compare artificial behavior to human behavior.
 img: assets/img/human_learning/computational_developmental.avif
 importance: 1
 category: work
