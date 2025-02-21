@@ -200,6 +200,7 @@ exclude:
   - readme_preview/
   - vendor
   # (Jared) Excluding these default files because we do not need their functions
+  -
   - _projects/1_project.md
   - _projects/2_project.md
   - _projects/3_project.md
@@ -210,8 +211,8 @@ exclude:
   - _projects/8_project.md
   - _projects/9_project.md
   - _pages/dropdown.md
-  # - _data/repositories.yml
-  # - _pages/repositories.md
+  - _data/repositories.yml
+  - _pages/repositories.md
   - _pages/teaching.md
   - _data/cv.yml
   - _pages/cv.md
