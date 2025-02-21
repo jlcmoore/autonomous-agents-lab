@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/AutonomousAgentsLab/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/AutonomousAgentsLab/repositories/";
-          },
         },{id: "nav-people",
           title: "people",
           description: "Agents of the lab",
           section: "Navigation",
           handler: () => {
             window.location.href = "/AutonomousAgentsLab/people/";
+          },
+        },{id: "nav-values",
+          title: "values",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/AutonomousAgentsLab/_pages/values/";
           },
         },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
